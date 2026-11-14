@@ -1,0 +1,9 @@
+LEDGERWORKS — SYNTHETIC SAMPLE DOCUMENT
+Order: ORD-0001
+Customer: Buckeye Manufacturing
+Product: Drainage pipe, 100 ft
+Quantity: 12
+Unit price: USD 249.00
+Total: USD 2,988.00
+
+Training data only. Not a real invoice.
